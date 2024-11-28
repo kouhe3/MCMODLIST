@@ -1,0 +1,46 @@
+- BCLib
+- Better End
+- Better Nether
+- BiomesOPlenty
+- Chunky
+- Cloth Config v11
+- CorgiLib
+- Cristel Lib
+- Dungeons and Taverns
+- Expanded Ecosphere
+- Fabric API
+- Fast Load
+- GeckoLib 4
+- GlitchCore
+- Iris
+- Jade
+- Just Enough Items
+- Lithium
+- Mod Menu
+- ModernFix
+- Noisium
+- Oh The Biomes We've Gone
+- Oh The Trees You'll Grow
+- Sodium
+- Sodium Extra
+- Tectonic
+- TerraBlender
+- Terralith
+- Towns and Towers
+- William Wythers Overhauled Overworld \[FORGE\]
+- Xaero's Minimap
+- Xaero's World Map
+- YUNG's API
+- YUNG's Better Desert Temples
+- YUNG's Better Dungeons
+- YUNG's Better End Island
+- YUNG's Better Jungle Temples
+- YUNG's Better Mineshafts
+- YUNG's Better Nether Fortresses
+- YUNG's Better Ocean Monuments
+- YUNG's Better Strongholds
+- YUNG's Better Witch Huts
+- YUNG's Bridges
+- YUNG's Cave Biomes
+- YUNG's Extras
+- YUNG's Menu Tweaks
