@@ -8,11 +8,14 @@
 - Better Archeology
 - Better End
 - Better Nether
+- Biome Makeover
 - BiomesOPlenty
 - Botarium
 - Bountiful
 - Bushier Flowers
 - Bygone Nether
+- Camps\. Castles\. Carriages\.
+- Caves & Canyons
 - ChoiceTheorem's Overhauled Village
 - Chunky
 - Cinderscapes
@@ -22,6 +25,8 @@
 - Dawn API
 - Deeper and Darker
 - Dungeons and Taverns
+- Eden Ring Reforked
+- Eugene's Wealthy Plains Village
 - Expanded Ecosphere
 - Explorations
 - Explorer's Compass
@@ -35,6 +40,7 @@
 - Formations Nether
 - Formations Overworld
 - FrozenLib
+- Galosphere
 - Gardens of the Dead
 - GeckoLib 4
 - Geophilic
@@ -44,6 +50,7 @@
 - HopoBetterMineshaft
 - HopoBetterRuinedPortals
 - HopoBetterUnderwaterRuins
+- Immersive Structures
 - Immersive Weathering
 - Incendium
 - Indium
@@ -54,6 +61,7 @@
 - Kiwi Library
 - Lithium
 - Lithostitched
+- Luki's Grand Capitals
 - Medieval Buildings
 - Medieval Buildings \[End Edition\]
 - MidnightLib
@@ -66,11 +74,14 @@
 - Moonlight
 - More Geodes
 - Nature's Compass
+- Nature's Spirit
 - Noisium
 - Nullscape
+- Nyctophobia
 - Obscure API
 - Oh The Biomes We've Gone
 - Oh The Trees You'll Grow
+- Paradise Lost
 - Philip\`s Ruins
 - Planets\+
 - Profundis
@@ -80,9 +91,12 @@
 - Resourceful Lib
 - Resourcefulconfig
 - River Redux
+- Scorched
+- Ships
 - Snow\! Real Magic\!
 - Sodium
 - Sodium Extra
+- Spawners\+
 - Spelunkery
 - Structure Pool API
 - SuperMartijn642's Config Lib
