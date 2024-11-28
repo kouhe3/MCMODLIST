@@ -1,21 +1,26 @@
 - BCLib
+- Balm
 - Better End
 - Better Nether
 - BiomesOPlenty
+- ChoiceTheorem's Overhauled Village
 - Chunky
 - Cloth Config v11
 - CorgiLib
 - Cristel Lib
+- Deeper and Darker
 - Dungeons and Taverns
 - Expanded Ecosphere
 - Fabric API
 - Fast Load
 - GeckoLib 4
+- Geophilic
 - GlitchCore
 - Iris
 - Jade
 - Just Enough Items
 - Lithium
+- Lithostitched
 - Mod Menu
 - ModernFix
 - Noisium
@@ -27,6 +32,7 @@
 - TerraBlender
 - Terralith
 - Towns and Towers
+- Waystones
 - William Wythers Overhauled Overworld \[FORGE\]
 - Xaero's Minimap
 - Xaero's World Map
@@ -44,3 +50,5 @@
 - YUNG's Cave Biomes
 - YUNG's Extras
 - YUNG's Menu Tweaks
+- Yeetus Experimentus
+- oωo
