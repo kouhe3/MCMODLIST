@@ -1,38 +1,106 @@
+- Ad Astra
+- Additional Structures
+- AdoraBuild: Structures
+- Aquamirae
+- Architectury
 - BCLib
 - Balm
+- Better Archeology
 - Better End
 - Better Nether
 - BiomesOPlenty
+- Botarium
+- Bountiful
+- Bushier Flowers
+- Bygone Nether
 - ChoiceTheorem's Overhauled Village
 - Chunky
+- Cinderscapes
 - Cloth Config v11
 - CorgiLib
 - Cristel Lib
+- Dawn API
 - Deeper and Darker
 - Dungeons and Taverns
 - Expanded Ecosphere
+- Explorations
+- Explorer's Compass
+- Explorify
 - Fabric API
+- Fabric Language Kotlin
+- Fabric Waystones
 - Fast Load
+- Forge Config API Port
+- Formations
+- Formations Nether
+- Formations Overworld
+- FrozenLib
+- Gardens of the Dead
 - GeckoLib 4
 - Geophilic
 - GlitchCore
+- Hearths
+- Hellion's Sniffer\+
+- HopoBetterMineshaft
+- HopoBetterRuinedPortals
+- HopoBetterUnderwaterRuins
+- Immersive Weathering
+- Incendium
+- Indium
 - Iris
 - Jade
 - Just Enough Items
+- Kambrik
+- Kiwi Library
 - Lithium
 - Lithostitched
+- Medieval Buildings
+- Medieval Buildings \[End Edition\]
+- MidnightLib
 - Mod Menu
 - ModernFix
+- Moog's End Structures
+- Moog's Nether Structures
+- Moog's Soaring Structures
+- Moog's Voyager Structures
+- Moonlight
+- More Geodes
+- Nature's Compass
 - Noisium
+- Nullscape
+- Obscure API
 - Oh The Biomes We've Gone
 - Oh The Trees You'll Grow
+- Philip\`s Ruins
+- Planets\+
+- Profundis
+- Promenade
+- Regions Unexplored
+- Repurposed Structures
+- Resourceful Lib
+- Resourcefulconfig
+- River Redux
+- Snow\! Real Magic\!
 - Sodium
 - Sodium Extra
+- Spelunkery
+- Structure Pool API
+- SuperMartijn642's Config Lib
 - Tectonic
 - TerraBlender
 - Terralith
+- Terrestria
+- The Bumblezone \- Fabric
+- The Graveyard
+- The Lost Castle
+- Tidal Towns
+- Towers of the Wild Modded
 - Towns and Towers
-- Waystones
+- Traverse
+- Underground Jungle
+- Universal Ores
+- Villages & Pillages
+- Wilder Wild
 - William Wythers Overhauled Overworld \[FORGE\]
 - Xaero's Minimap
 - Xaero's World Map
@@ -51,4 +119,5 @@
 - YUNG's Extras
 - YUNG's Menu Tweaks
 - Yeetus Experimentus
+- fabric\-medievalend\-1\.0\.1\.jar\.duplicate
 - oωo
