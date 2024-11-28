@@ -32,9 +32,10 @@
 - Entity Texture Features 实体纹理
 - Modern UI 矢量字体
 - Not Enough Animations 第三人称动画
-- Continuity 方块材质链接
+- Continuity 方块材质链接,我觉得不需要，因为mod方块用不了
 - 3D Skin Layers 3D皮肤
 - Falling Leaves 落叶
+- Euphoria Patches
 
 ## Useful
 
