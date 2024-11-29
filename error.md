@@ -1,0 +1,7 @@
+- Amplified Nether 和其他下界地形mod不兼容
+- Medieval Buildings 加入之后游戏无法进入世界
+- Spelunkery 和universal ores冲突。重复的安山岩钻石矿
+- Nature's Spirit 不知道为什么
+- stellarity 与betterend冲突，与YUNG的末地岛冲突
+- Lithosphere/Big Globe 我没测试，但是我觉得史诗地形mod导致结构无法生成
+- Geocluster 加入之后游戏不会报错。但是矿洞里的矿石都没了
