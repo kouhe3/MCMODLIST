@@ -65,8 +65,6 @@
 - Lithium
 - Lithostitched
 - Luki's Grand Capitals
-- Medieval Buildings
-- Medieval Buildings \[End Edition\]
 - MidnightLib
 - Mod Menu
 - ModernFix
@@ -75,9 +73,9 @@
 - Moog's Soaring Structures
 - Moog's Voyager Structures
 - Moonlight
+- More Fossils
 - More Geodes
 - Nature's Compass
-- Nature's Spirit
 - Noisium
 - Nullscape
 - Nyctophobia
@@ -102,7 +100,6 @@
 - Sodium
 - Sodium Extra
 - Spawners\+
-- Spelunkery
 - Structory
 - Structory: Towers
 - Structure Pool API
@@ -118,8 +115,10 @@
 - Towers of the Wild Modded
 - Towns and Towers
 - Traverse
+- Twigs
 - Underground Jungle
 - Universal Ores
+- Unnamed Desert
 - Villages & Pillages
 - Wilder Wild
 - William Wythers Overhauled Overworld \[FORGE\]
@@ -140,5 +139,4 @@
 - YUNG's Extras
 - YUNG's Menu Tweaks
 - Yeetus Experimentus
-- fabric\-medievalend\-1\.0\.1\.jar\.duplicate
 - oωo
