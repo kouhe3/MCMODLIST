@@ -1,0 +1,57 @@
+- Architectury
+- Brewin And Chewin
+- Casualness Delight Fabric
+- Cloth Config v11
+- Controlling For Fabric
+- Corn Delight
+- Crate Delight
+- Cultural Delights Fabric
+- Dumpling's Delight Rewrapped
+- Ender's Delight Refabricated
+- Expanded Delight
+- Fabric API
+- Fabric Language Kotlin
+- FancyDelight
+- Farmer's Delight
+- Farmer's Delight
+- Farmer's Delight Expansion
+- Farmer's Knives
+- FerriteCore
+- Forge Config API Port
+- Fright's Delight
+- Herbal Delight
+- ImmediatelyFast
+- Indium
+- Iris
+- Italy Delight
+- Language Reload
+- LazyDFU
+- Lithium
+- Maple Delight
+- Memory Leak Fix
+- Mod Menu
+- Modern UI
+- ModernFix
+- More Culling
+- More Delight
+- Muffin's Thai's Delight
+- My Nether's Delight
+- Nether's Delight Refabricated
+- Pumpkin Pie Delight
+- Reese's Sodium Options
+- Respite Creators
+- Roughly Enough Items
+- Rustic Delight
+- Searchables
+- Seed Delight Fabric
+- Silents Delight
+- Sodium
+- Sodium Extra
+- Storage Delight
+- TerraBlender
+- Turkish Delight
+- Ube's Delight
+- Usa Delight
+- Vegan Delight
+- Vietnam's Delight
+- YetAnotherConfigLib
