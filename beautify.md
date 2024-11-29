@@ -21,13 +21,13 @@
 - Chisel Refabricated
 - Cloth Config v11
 - Cluttered
+- Collective
 - Comforts
 - Concrete Plus
 - Connected Glass
 - Continuity
 - Convenient Decor
 - Convenient Name Tags
-- Couplings
 - Customizable Elytra
 - Decorative Blocks
 - Derelict
@@ -35,6 +35,7 @@
 - Diagonal Walls
 - Diagonal Windows
 - Display Case Mod
+- Double Doors
 - Dramatic Doors
 - Enchanted Vertical Slabs
 - Extended Drawers

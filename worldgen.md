@@ -75,6 +75,7 @@
 - Moonlight
 - More Fossils
 - More Geodes
+- More Music Discs
 - Nature's Compass
 - Noisium
 - Nullscape

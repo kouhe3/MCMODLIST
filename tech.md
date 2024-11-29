@@ -41,6 +41,7 @@
 - Create: Power Loader
 - Create: Steam 'n' Rails
 - Create: Structures
+- Create: TrainUtilities
 - Crystal\-Clear
 - Ducky Peripherals
 - Expanded Storage
@@ -52,8 +53,11 @@
 - Inmis
 - InmisAddon
 - Inventory Profiles Next
+- Joban Client Mod
 - Just Enough Characters
+- Minecraft Transit Railway
 - Moonlight
+- Open Block Elevator Mod
 - Peripheralium
 - Plethora
 - PowerAE2CC Bridge
