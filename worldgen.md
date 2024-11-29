@@ -5,8 +5,10 @@
 - Architectury
 - BCLib
 - Balm
+- Beneath the Wetlands
 - Better Archeology
 - Better End
+- Better End Cities Better End
 - Better Nether
 - Biome Makeover
 - BiomesOPlenty
@@ -16,6 +18,7 @@
 - Bygone Nether
 - Camps\. Castles\. Carriages\.
 - Caves & Canyons
+- Cherry Grove Villages
 - ChoiceTheorem's Overhauled Village
 - Chunky
 - Cinderscapes
@@ -91,13 +94,17 @@
 - Resourceful Lib
 - Resourcefulconfig
 - River Redux
+- Saturated
 - Scorched
 - Ships
+- SimpleMod
 - Snow\! Real Magic\!
 - Sodium
 - Sodium Extra
 - Spawners\+
 - Spelunkery
+- Structory
+- Structory: Towers
 - Structure Pool API
 - SuperMartijn642's Config Lib
 - Tectonic
