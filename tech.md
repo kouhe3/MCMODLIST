@@ -43,6 +43,7 @@
 - Create: Structures
 - Crystal\-Clear
 - Ducky Peripherals
+- Expanded Storage
 - Extended Cogwheels
 - Fabric API
 - Fabric Language Kotlin
