@@ -1,4 +1,77 @@
-- Create 机械动力
-- Create: Steam and Rails 轨道
-- Create: Crafts and Additions 烈焰人燃烧室吸管，电
-
+- AE2WTLib
+- Applied Energistics 2
+- Architectury
+- Bad Packets
+- Botarium
+- CC: Tweaked
+- CC: VS
+- CC:C Bridge
+- Cardinal Components API
+- Clockwork: Create x Valkyrien Skies
+- Cloth Config v11
+- Create
+- Create Air Fabric
+- Create Big Cannons
+- Create Contraption Terminals
+- Create Crafts & Additions
+- Create Deco
+- Create Diesel Generators
+- Create Enchantment Industry
+- Create Goggles
+- Create Jetpack
+- Create Ore Excavation
+- Create Railways Navigator
+- Create Slice & Dice
+- Create Utilities
+- Create: Bells & Whistles
+- Create: Big Contraptions
+- Create: Bitterballen
+- Create: Copycats\+
+- Create: Design n' Decor
+- Create: Dreams & Desires
+- Create: Estrogen
+- Create: Framed
+- Create: Garnished
+- Create: High Pressure
+- Create: Interactive
+- Create: Interiors
+- Create: Molten Metals
+- Create: New Age
+- Create: Numismatics
+- Create: Power Loader
+- Create: Steam 'n' Rails
+- Create: Structures
+- Crystal\-Clear
+- Ducky Peripherals
+- Extended Cogwheels
+- Fabric API
+- Fabric Language Kotlin
+- Forge Config API Port
+- Immersive Aircraft
+- Inmis
+- InmisAddon
+- Inventory Profiles Next
+- Just Enough Characters
+- Moonlight
+- Peripheralium
+- Plethora
+- PowerAE2CC Bridge
+- Puzzles Lib
+- Resourceful Lib
+- Roughly Enough Items
+- Shulker Box Tooltip
+- Sophisticated Backpacks
+- Sophisticated Core
+- Sophisticated Storage
+- Spiky Spikes
+- Tom's Simple Storage Mod
+- Traveler's Backpack
+- Trinkets
+- Turtlematic
+- VMod
+- VS Eureka Mod
+- VS Tournament Mod
+- Valkyrien Skies 2
+- Yeetus Experimentus
+- libIPN
+- wthit
